@@ -8,3 +8,4 @@
 - the date of the exchange rate
 
 3. Each exchange is saved to a *'.json'* file and automatically uploaded to an **[AWS s3 Bucket](https://aws.amazon.com/s3/)**. 
+4. You need to enter your AWS access passwords in credentials.py
